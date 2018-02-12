@@ -11,6 +11,7 @@ Part 2:
 - Delete blog from DB
 4. Implement error handling middleware (examples here) which will send an error without stack trace
 to client.
+
 *Advanced:
 Describe mongoose scheme for User model. Implement user registration, add authorization and
 authentication using http://www.passportjs.org/ (any strategy) for accessing blog article.
